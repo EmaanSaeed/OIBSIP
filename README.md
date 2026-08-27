@@ -17,11 +17,8 @@ I built this as my **Task 1** project during my **Web Development and Designing 
 - ✅ Responsive Design (works on mobile, tablet, and desktop)
 - ✅ Consistent Color Palette (Coffee Theme)
 
-## 🖼️ Screenshots
-![Landing Page Screenshot](screenshot.png)  
-*(Optional: Aap baad mein screenshot daal sakte hain)*
 
 ## 🚀 How to Run This Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/OIBSIP.git
+   git clone https://github.com/EmaanSaeed/OIBSIP.git
