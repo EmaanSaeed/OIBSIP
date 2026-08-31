@@ -21,4 +21,4 @@ I built this as my **Task 1** project during my **Web Development and Designing 
 ## 🚀 How to Run This Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/EmaanSaeed/OIBSIP.git
+   git clone https://github.com/EmaanSaeed/OIBSIP/tree/main/WebDevelopment-Level1-Task1-LandingPage
