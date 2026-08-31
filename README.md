@@ -57,5 +57,5 @@ A simple tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/EmaanSaeed/OIBSIP
+   git clone https://github.com/EmaanSaeed/OIBSIP/tree/main
 
