@@ -44,5 +44,12 @@ The design focuses on **visual appeal**, **user experience**, and **performance*
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Interactivity & Logic |
 | ![Lenis](https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logo=javascript&logoColor=white) | Smooth Scrolling |
 
+
 ---
+
+## 🚀 How to Use
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/EmaanSaeed/OIBSIP.git
 
