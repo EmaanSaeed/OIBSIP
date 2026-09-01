@@ -79,5 +79,5 @@ With a sleek, dark-themed interface featuring a live thermometer visual, this pr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/EmaanSaeed/OIBSIP.git
+   git clone https://github.com/EmaanSaeed/OIBSIP/tree/main/WebDevelopment-Level1-Task3-TemperatureConverter
 
